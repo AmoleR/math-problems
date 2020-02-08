@@ -1,3 +1,2 @@
-The director of a marching band asks the band members to line up in rows of four, but one is left over. Then she tries to line them up in rows of six, but three are left over. Finally, she tries to line them up in rows of seven, but four are left over.
-The band has fewer than 100 members.
-How many members are there?
+The director of a marching band wishes to place the members into a formation that includes all of them and has no unfilled positions. If they are arranged in a square formation, there are 5 members left over. The director realizes that if he arranges the group in a formation with 7 more rows than columns, there are no members left over. Find the maximum number of members this band can have.
+ 
